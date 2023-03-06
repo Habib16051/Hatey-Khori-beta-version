@@ -15,7 +15,8 @@ Shipping info with product details (number of products and total cost):
 ![image](https://user-images.githubusercontent.com/39822204/223183475-da5280e1-cc64-4800-9593-099ec40fd5e1.png)
 Here, Customer can give their address and details to complete their order and get their product in accurate location
 
-
-
+Payment Option:
+![image](https://user-images.githubusercontent.com/39822204/223183948-929aeebe-2a84-4aa2-b448-a886bab7e6b5.png)
+After submiting the shipping information , there is a payment option will be pop up in the same page which was hidden before submitting the ship info 
 
 
