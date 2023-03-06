@@ -11,6 +11,10 @@ Checkout Page:
 ![image](https://user-images.githubusercontent.com/39822204/223182363-dd0b5fe8-d3b5-4560-9a04-9059fabc3aa1.png)
 Checkout page is the page where all the cart products are listed with total numbers of products and the sum of the total cost.
 
+Shipping info with product details (number of products and total cost):
+![image](https://user-images.githubusercontent.com/39822204/223183475-da5280e1-cc64-4800-9593-099ec40fd5e1.png)
+Here, Customer can give their address and details to complete their order and get their product in accurate location
+
 
 
 
