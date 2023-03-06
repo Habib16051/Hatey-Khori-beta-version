@@ -4,7 +4,7 @@ Welcome to my new project 'Django Ecommerece Project' where any user can cart th
 
 Home Page:
 
-![image](https://user-images.githubusercontent.com/39822204/218945394-70c18df9-ad4d-4800-92d4-98b007986d55.png)
+![image](https://user-images.githubusercontent.com/39822204/223187357-d5d40fc5-d454-47c4-9a10-37be040943de.png)
 This is the homepage of the project where all the products are enlisted with the price tags and product name.
 
 Checkout Page:
