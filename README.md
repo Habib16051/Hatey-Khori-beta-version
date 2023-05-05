@@ -1,4 +1,5 @@
 # django-ecommerce-project
+This is a e-commerce website where any user can order, cart, buy and checkout groceries and life style products.
 
 Welcome to my new project 'Django Ecommerece Project' where any user can cart the product and order any item, increase and decrease the item after carting. It has dynamic facility to checkout the item, total cost, individual cost, all will be counted and synchronized during the order.
 
